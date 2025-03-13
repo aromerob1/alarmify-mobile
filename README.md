@@ -1,6 +1,6 @@
 # Alarmify Mobile
 Esta aplicación móvil ha sido desarrollada en Android Studio utilizando Kotlin.
-# IMPORTANTE: Correr la app con el tel[efono en ligth mode (no usar dark mode).
+# IMPORTANTE: Correr la app con el teléfono en ligth mode (no usar dark mode).
 
 
 ## Tecnologías Utilizadas
