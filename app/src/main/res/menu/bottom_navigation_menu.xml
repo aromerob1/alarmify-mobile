@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_nav_button"
+        android:enabled="true"
+        android:icon="@drawable/round_home_24"
+        android:title="@string/home_label"/>
+    <item
+        android:id="@+id/alarms_nav_button"
+        android:enabled="true"
+        android:icon="@drawable/round_access_alarm_24"
+        android:title="@string/alarms_label"/>
+    <item
+        android:id="@+id/settings_nav_button"
+        android:enabled="true"
+        android:icon="@drawable/settings_icon"
+        android:title="@string/settings_label"/>
+    <item
+        android:id="@+id/logout_nav_button"
+        android:enabled="true"
+        android:icon="@drawable/logout_icon"
+        android:title="@string/logout_label"/>
+</menu>

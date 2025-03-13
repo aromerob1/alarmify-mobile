@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyMaterialAlertDialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="colorPrimary">@color/white</item> <!-- Botones principales (Aceptar) -->
+        <item name="colorOnSurface">@color/white</item> <!-- Texto del mensaje y título -->
+        <item name="colorSurface">@color/primary</item> <!-- Fondo del diálogo -->
+    </style>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Alarmify</string>
+    <string name="email_label">Email</string>">
+    <string name="password_label">Contraseña</string>
+    <string name="login_button">Ingresar</string>
+    <string name="login_google">Ingresar con Google</string>
+    <string name="login_to_register">Regístrate</string>">
+    <string name="register_button">Registrarse</string>
+    <string name="register_google">Registro con Google</string>
+    <string name="register_to_login">Inicia sesión</string>
+    <string name="home_label">Home</string>
+    <string name="alarms_label">Alarmas</string>
+    <string name="settings_label">Ajustes</string>
+    <string name="logout_label">Cerrar sesión</string>
+    <string name="create_alarm_button">Crear Alarma</string>
+    <string name="alarms_number_label">Número de Alarmas</string>
+    <string name="completed_alarms_label">Alarmas Terminadas</string>
+    <string name="skipped_alarms_label">Alarmas Omitidas</string>
+    <string name="next_alarm_label">Próxima Alarma</string>
+    <string name="next_alarm_value">Ene. 25 – 2:30 pm.</string>
+    <string name="alarms_number_value">15</string>
+    <string name="completed_alarms_value">10</string>
+    <string name="skipped_alarms_value">5</string>
+    <string name="save_alarm_label">Guardar</string>
+    <string name="dialog_title">Guardar</string>"
+    <string name="dialog_supporting_text">Estás a punto de crear una alarma</string>
+    <string name="dialog_decline">Cancelar</string>
+    <string name="dialog_accept">Aceptar</string>
+    <string name="name_label">Nombre</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
